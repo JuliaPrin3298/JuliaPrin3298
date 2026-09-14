@@ -61,6 +61,7 @@ Advergame desenvolvido como projeto acadêmico, com foco em interação, pontua�
 Tamagotchi feito em Java, criado pra reviver a experiência nostálgica de cuidar de um pet virtual.
 
 **Tecnologias:** Java
+
 ---
 
 ## Contato 💬
